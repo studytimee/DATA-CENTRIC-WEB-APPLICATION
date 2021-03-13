@@ -3,6 +3,10 @@
 
 # Lab 1 - Introduction and MySQL Review 
 ## Solution:
+### Part 1
+### Part 2
+### Part 3
+
 # Lab 2 - MySQL Review Multiple Tables
 ## Solution: 
 # Lab 3 - Data from multiple tables
