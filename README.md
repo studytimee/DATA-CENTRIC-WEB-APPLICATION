@@ -1,5 +1,5 @@
 # Data Centric Web Application
-Step by step guide for developing web application
+## Step by step guide for developing web application
 
 # Lab 1 - Introduction and MySQL Review 
 ## Solution:
